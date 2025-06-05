@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Reddy12rr
+- 👀 I’m interested in ...Ai and ML
+- 🌱 I’m currently learning ...............fullstack using java
+- 😄 Pronouns: Male
